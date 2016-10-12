@@ -1,12 +1,41 @@
 .format div{
   float:left;
   width: 325px;
-  margin: 10px;
+  height:575px;
   padding:10px;
-  border-right: 2px solid;
+  border-radius: 25px;
   text-align: center;
 }
 
-img{
-  max-width:
+.animal1{
+  background-color: #f4d03f;
+}
+
+.animal2{
+  background-color: #f5b041;
+}
+.animal3{
+  background-color: #48c9b0;
+}
+.animal4{
+  background-color: #5499c7;
+}
+
+h1{
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #aed6f1,white);
+  font-family: inherit;
+}
+
+.format div p{
+  font-family:***;
+  font-weight: normal;
+}
+
+body p{
+  text-align: center;
+  font-weight: bolder;
 }
